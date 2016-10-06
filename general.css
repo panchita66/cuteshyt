@@ -879,6 +879,8 @@ color: #ECEBEB;
 
 #useit {
 	height: 100%;
+	background: contain;
+	background-size: cover;
 }
 /* Media Queries */
 /* Media queries!
