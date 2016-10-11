@@ -4784,8 +4784,12 @@ footer p {
 		address{margin-top:80px;}
 		.address{text-align:center}
 		.footer-banner{display:none}
-
-
-
-
-	}
+}
+#useit {
+	background-size: 100% auto; 
+}
+	
+	
+	
+	
+	
